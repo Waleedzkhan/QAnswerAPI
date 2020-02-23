@@ -21,3 +21,7 @@ The last entry above is what adds data to the DB using EF Migrations
 
 All of the nuget packages can be installed using the command
 Install-Package   "NameOfPackage" e.g Install-Package Microsoft.EntityFrameworkCore.Tools
+'
+
+
+Testing the Jenkins Pipeline
